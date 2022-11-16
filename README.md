@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Zahid Khan.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently Updating my profiles on job provider plateforms.
-- 💞️ I’m looking for a job as a web develpoer.
+- 👀 I’m a software engineer.
 - 📫 You can reach me on ✨ +91 9648409632 or you can contact me on my email >>> ✨ zahid.khan846@hotmail.com
 
